@@ -1,0 +1,212 @@
+.start-your-build {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1039px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.compatibility-no-issues {
+  position: absolute;
+  top: 11px;
+  left: -39px;
+  display: inline-block;
+  width: 466px;
+  height: 20px;
+}
+
+.rectangle-barbel{
+  width: 1440px;
+  position: absolute;
+  background-color: #393e3e;
+}
+.barbela{
+  color: #fff;
+  align-items: center;
+  font-size: 30px; 
+  width: 600;
+  text-align: center;
+  font-weight: 700px;
+  top: 150px;
+  left: 420px;  
+}
+
+.compatibility-no-issues-or-in-wrapper {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  background-color: #000;
+  width: 1440px;
+  height: 43px;
+  overflow: hidden;
+  font-size: var(--font-size-3xs);
+}
+.rectangle-barbela {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1439px;
+  height: 133.62px;
+}
+.electrocraft {
+  position: absolute;
+  top: 31.12px;
+  left: 130.91px;
+  font-size: 25px;
+  display: inline-block;
+  width: 211.85px;
+  height: 21.58px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 12.33px;
+  left: 63.96px;
+  border-radius: 50%;
+  width: 79.94px;
+  height: 80.17px;
+  object-fit: cover;
+}
+/*button sa top*/
+
+.builder{
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 76px;
+  cursor: pointer;
+  background-color: #272829;
+}
+
+.products {
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 168px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.guides-1 {
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 255px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.completed-builds-2 {
+  color: #ffffff;
+  width: 150px;
+  position: absolute;
+  top: 109px;
+  left: 320px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.builder,.products{
+  color: #fff;
+}
+.guides-1,.completed-builds-2{
+  color: #fff;
+}
+.builder:hover,.products:hover{
+  color: #666666;
+}
+.guides-1:hover,.completed-builds-2:hover{
+  color: #666666;
+}
+.rectangle-barbel{
+  width: 1440px;
+  height: 126px;
+  position: absolute;
+  top: 134px;
+  left: 0px;
+  background-color: #393e3e;
+}
+.barbela{
+  align-items: center;
+  font-size: 30px; 
+  width: 600;
+  height: auto;
+  text-align: center;
+  font-weight: 700px;
+  top: 171px;
+  left: 420px;
+  font-stretch: normal;
+  
+}
+.line-1{
+  width: 1439px;
+  position: absolute;
+  top: 90px;
+  border-color: #000;
+  border-style: solid;
+}
+
+.box .rectangle{
+  position: fixed;
+  width: 376px;
+  height: 519px;
+  background-color: #000000;
+  border-radius: 25px;
+}
+.rectangle-15 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 376px;
+  height: 519px;
+  position: absolute;
+  left: 60px;
+  top: 298px;
+}
+.rectangle-18 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 376px;
+  height: 519px;
+  position: absolute;
+  left: 67px;
+  top: 920px;
+}
+.rectangle-16 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 376px;
+  height: 519px;
+  position: absolute;
+  left: 555px;
+  top: 298px;
+}
+.rectangle-19 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 376px;
+  height: 519px;
+  position: absolute;
+  left: 555px;
+  top: 920px;
+}
+.rectangle-17 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 351px;
+  height: 519px;
+  position: absolute;
+  left: 1028px;
+  top: 298px;
+}
+.rectangle-20 {
+  background: rgba(0, 0, 0, 0.85);
+  border-radius: 25px;
+  width: 351px;
+  height: 519px;
+  position: absolute;
+  left: 1028px;
+  top: 920px;
+}

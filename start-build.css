@@ -1,0 +1,341 @@
+.start-your-build {
+  width: 1440px;
+  position: flex;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+}
+.rectangle-barbel{
+  width: 1440px;
+  height: 138px;
+  position: absolute;
+  top: 128px;
+  left: 0px;
+  background-color: #393e3e;
+}
+.rectangle-barbela {
+  position: absolute;
+  background-color: #272829;
+  width: 1440px;
+  height: 133px;
+}
+.electrocraft {
+  position: absolute;
+  top: 31px;
+  left: 130px;
+  font-size: 25px;
+  width: 211px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 12.33px;
+  left: 63.96px;
+  border-radius: 50%;
+  width: 79.94px;
+  height: 80.17px;
+  object-fit: cover;
+}
+/*button sa top*/
+
+.builder{
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 76px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.products {
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 168px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.guides-1 {
+  color: #ffffff;
+  width: 69px;
+  position: absolute;
+  top: 109px;
+  left: 255px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.completed-builds-2 {
+  color: #ffffff;
+  width: 150px;
+  position: absolute;
+  top: 109px;
+  left: 320px;
+  cursor: pointer;
+  background-color: #272829;
+}
+.builder,.products{
+  color: #fff;
+}
+.guides-1,.completed-builds-2{
+  color: #fff;
+}
+.builder:hover,.products:hover{
+  color: #666666;
+}
+.guides-1:hover,.completed-builds-2:hover{
+  color: #666666;
+}
+
+.button {
+  display: flex;
+  position: relative;
+  top: 280px;
+  cursor: pointer;
+  box-sizing: border-box;
+  width: 1100px;
+}
+/*Button choose A*/
+
+.choose-h1{
+top: 25px;
+left: 180px;
+position: absolute;
+cursor: pointer;
+}
+.choose-h2{
+  top: 82px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h3{
+  top: 130px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h4{
+  top: 175px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h5{
+  top: 220px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h6{
+  top: 270px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h7{
+  top: 315px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h8{
+  top: 360px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h9{
+  top: 407px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h10{
+  top: 451px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h11{
+  top: 493px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+.choose-h12{
+  top: 530px;
+  left: 180px;
+  position: absolute;
+  cursor: pointer;
+}
+
+/*gitna text tas rectangle na black*/
+
+
+.rectangle-icon {
+  position: absolute;
+  top: 290px;
+  left: 61px;
+  width: 1440px;
+  height: 571px;
+}
+.rectangle-bar{
+width: 1440px;
+height: 137px;
+position: absolute;
+top: 900px;
+left: 0px;
+background-color: #000;
+}
+/*lines*/
+.line{
+  width: 1100px;
+  position: absolute;
+  top: 5px;
+  left:125px;
+  border-color: #12212b;
+  border-style: solid;
+}
+.line-2{
+  width: 1100px;
+  position: absolute;
+  left:125px;
+  top: 60px;
+  border-color: #12212b;
+  border-style: solid;
+}
+.line-3{
+  width: 1100px;
+  left:125px;
+  position: absolute;
+  top: 110px;
+  border-color: #12212b;
+  border-style: solid;
+}
+.line-4{
+  width: 1100px;
+  position: absolute;
+  top: 155px;
+  left:125px;
+  border-color: #12212b;
+  border-style: solid;
+}
+.line-5{
+  width: 1100px;
+  position: absolute;
+  top: 200px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-6{
+  width: 1100px;
+  position: absolute;
+  top: 250px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-7{
+  width: 1100px;
+  position: absolute;
+  top: 295px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-8{
+  width: 1100px;
+  position: absolute;
+  top: 340px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-9{
+  width: 1100px;
+  position: absolute;
+  top: 385px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-10{
+  width: 1100px;
+  position: absolute;
+  top: 430px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-11{
+  width: 1100px;
+  position: absolute;
+  top: 475px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+.line-12{
+  width: 1100px;
+  position: absolute;
+  top: 519px;
+  border-color: #12212b;
+  border-style: solid;
+  left:125px;
+}
+
+@media screen and (max-width: 1025px){
+  .rectangle-barbela {
+    background-color: #272829;
+    width: 1440px;
+    height: 138px;
+  }
+  .rectangle-barbel {
+    background-color: #393e3e;
+    width: 1440px;
+    height: 133px;
+  }
+  .electrocraft {
+    position: flex;
+    font-size: 25px;
+    width: 211px;
+  }
+}
+@media screen and (max-width: 769px) {
+    .rectangle-barbela {
+    background-color: #272829;
+    width: 1440px;
+    height: 138px;
+  }
+  .rectangle-barbel {
+    background-color: #393e3e;
+    width: 1440px;
+    height: 133px;
+  }
+  .barbela{
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 2rem;
+    padding: 1rem;
+    width: 50%;
+  }
+  .electrocraft {
+    position: flex;
+    font-size: 25px;
+    width: 211px;
+  }
+  .button {
+    display: flex;
+    position: relative;
+    top: 280px;
+    cursor: pointer;
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 376px){
+  
+}
